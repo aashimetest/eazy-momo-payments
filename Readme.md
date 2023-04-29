@@ -31,7 +31,7 @@ Once you are done with the stages above, you are ready to install the EazyMoMo p
     - Enable/Disable the plugin
     - Change Title -> Text displayed to users during checkout as one of the checkout options
     - Enter description 
-    - Enter the **Email Address** used during registration on the[momodeveloper.mtn.com](https://momodeveloper.mtn.com) portal
+    - Enter the **Email Address** used during registration on the [momodeveloper.mtn.com](https://momodeveloper.mtn.com) portal
 6. Save the changes.
 
 Once all the setting are done, you should see the EazyMoMo as one of the payments options on your E-Commerce website.
@@ -42,7 +42,7 @@ Enjoy :) and don't forget to rate us 5 stars!
 ### Credits
 EazyMoMo Plugin was developed by **Ashime Amandong** to help businesses and small shop owners easily integrate with **_Mobile Money Payments_** on their e-commerce stores.
 
-For any enquiries please, drop us a mail on info@eazymomo.cm
+For any enquiries please, drop me an e-mail at aashime.amandong@gmail.com
 
 
 
